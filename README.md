@@ -23,7 +23,11 @@ Welcome to my profile.
 </a>  
 </div>  
   
-<br/>  
+<br/> 
+
+## :3
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y81AEZN3)
 
 <!--
 **tanukiraccoon/tanukiraccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
